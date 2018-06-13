@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SSO1</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="email_hint">abc@abc.gmail.com</string>
+    <string name="login">Login</string>
+
+    <string name="user_id">com.sso</string>
+    <string name="user_label">SSO</string>
+    <string name="sign_in">Sign In</string>
+    <string name="title_activity_successful_log_in">SuccessfulLogIn</string>
+    <string name="logged_in">You are now logged in! Go to SSO2 app to check whether you can access that app !!</string>
+</resources>
